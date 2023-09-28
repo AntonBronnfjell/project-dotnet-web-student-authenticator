@@ -7116,30 +7116,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vbmac\\.nuget\\packages\\": {},
-    "C:\\Users\\vbmac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
+    "C:\\Users\\Anton\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vbmac\\OneDrive\\Documentos\\Projetos\\AuthenticationSystem\\AuthenticationSystem\\AuthenticationSystem.csproj",
-      "projectName": "AuthenticationSystem",
-      "projectPath": "C:\\Users\\vbmac\\OneDrive\\Documentos\\Projetos\\AuthenticationSystem\\AuthenticationSystem\\AuthenticationSystem.csproj",
-      "packagesPath": "C:\\Users\\vbmac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vbmac\\OneDrive\\Documentos\\Projetos\\AuthenticationSystem\\AuthenticationSystem\\obj\\",
+      "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj",
+      "projectName": "StudentsAuthenticationSystem",
+      "projectPath": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj",
+      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Users\\vbmac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vbmac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Users\\vbmac\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config"
+        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7200,7 +7204,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

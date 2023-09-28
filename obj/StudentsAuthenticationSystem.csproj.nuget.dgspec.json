@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\AuthenticationSystem.csproj": {}
+    "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\AuthenticationSystem.csproj": {
+    "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\AuthenticationSystem.csproj",
-        "projectName": "AuthenticationSystem",
-        "projectPath": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\AuthenticationSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj",
+        "projectName": "StudentsAuthenticationSystem",
+        "projectPath": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\StudentsAuthenticationSystem.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Anton\\source\\repos\\AuthenticationSystem\\obj\\",
         "projectStyle": "PackageReference",
@@ -40,9 +40,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -91,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
